@@ -1,3 +1,3 @@
 function alertUser(){
-    alert('Hey, Sign Up!')
+    alert('Hey, Sign Up!');
 }
